@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Olga  Riabinina](https://up.htmlacademy.ru/htmlcss/36/user/2189695).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Марченко](https://htmlacademy.ru/profile/id505487).
 
 ---
 
